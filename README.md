@@ -22,5 +22,5 @@ Now you can import components and styles in your application.
 import { TeliStandardLayout } from '@telicent-oss/ds';
 
 import "@telicent-oss/ds/dist/style.css";
-import "@telicent-io/ds/dist/fontawesome.css";
+import "@telicent-oss/ds/dist/fontawesome.css";
 ```
