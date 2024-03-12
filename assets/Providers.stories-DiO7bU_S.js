@@ -1,0 +1,10 @@
+import"./chunk-HLWAVYOI-Dow2X8AW.js";import{M as s}from"./index-CRoIEguh.js";import{j as e}from"./jsx-runtime-CKrituN3.js";import{useMDXComponents as i}from"./index-DI5IigMn.js";import"./iframe-Buedniv8.js";import"../sb-preview/runtime.js";import"./index-CBqU2yxZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./react-18-D8cruF67.js";import"./index-BtM5VmRH.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-BBmpo-GE.js";import"./index-BlN7QbS8.js";import"./extends-CCbyfPlC.js";import"./assertThisInitialized-LnzLPM7_.js";import"./index-CWLWFqC4.js";import"./index-DrFu-skq.js";function n(r){const t=Object.assign({h1:"h1",h2:"h2",p:"p",a:"a"},i(),r.components);return e.jsxs(e.Fragment,{children:[e.jsx(s,{title:"Design System/Providers"}),`
+`,e.jsx(t.h1,{id:"providers",children:"Providers"}),`
+`,e.jsx(t.h2,{id:"theme-provider",children:"Theme provider"}),`
+`,e.jsx(t.p,{children:`The ThemeProvider component is responsible for providing the theme to all it's children.
+This component should be imported in index.jsx|tsx, if the standard layout component is not being used.
+At the moment the provider is set to use the dark theme by default.`}),`
+`,e.jsx(t.h2,{id:"styled-engine-provider",children:"Styled engine provider"}),`
+`,e.jsxs(t.p,{children:[`The styled engine provider is a mui component used to inject tailwindcss first because we are using tailwindcss to style our components.
+This allows us to override the mui styling with tailwindcss.
+More information about this can be found `,e.jsx(t.a,{href:"https://mui.com/material-ui/guides/interoperability/#css-injection-order-3",target:"_blank",rel:"nofollow noopener noreferrer",children:"here"})]})]})}function m(r={}){const{wrapper:t}=Object.assign({},i(),r.components);return t?e.jsx(t,{...r,children:e.jsx(n,{...r})}):n(r)}const a=()=>{throw new Error("Docs-only story")};a.parameters={docsOnly:!0};const o={title:"Design System/Providers",tags:["stories-mdx"],includeStories:["__page"]};o.parameters=o.parameters||{};o.parameters.docs={...o.parameters.docs||{},page:m};const D=["__page"];export{D as __namedExportsOrder,a as __page,o as default};
